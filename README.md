@@ -1,3 +1,3 @@
 # NewsAppPage
 
-![ReactNative Screencast](src/react news app page.gif)
+![ReactNative Screencast](src/reactnative.gif)
